@@ -13,14 +13,14 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "\\\\Y-STORAGE05\\Y-W-STU-03-H\\756839\\Work\\ConsoleApp1\\ConsoleApp1\\Tournament.csproj",
+      "projectUniqueName": "H:\\ConsoleApp1\\ConsoleApp1\\Tournament.csproj",
       "projectName": "Tournament",
-      "projectPath": "\\\\Y-STORAGE05\\Y-W-STU-03-H\\756839\\Work\\ConsoleApp1\\ConsoleApp1\\Tournament.csproj",
+      "projectPath": "H:\\ConsoleApp1\\ConsoleApp1\\Tournament.csproj",
       "packagesPath": "C:\\Users\\756839\\.nuget\\packages\\",
-      "outputPath": "\\\\Y-STORAGE05\\Y-W-STU-03-H\\756839\\Work\\ConsoleApp1\\ConsoleApp1\\obj\\",
+      "outputPath": "H:\\ConsoleApp1\\ConsoleApp1\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "\\\\Y-STORAGE05\\Y-W-STU-03-H\\756839\\System\\Profile\\AppData.V5\\NuGet\\NuGet.Config",
+        "C:\\Users\\756839\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [

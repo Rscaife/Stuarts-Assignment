@@ -30,5 +30,12 @@ namespace Tournament
                 teams.Add(t);
             }
         }
+
+        public void printTournament()
+        {
+            Console.WriteLine("A Tournament");
+        }
+
+
     }
 }
