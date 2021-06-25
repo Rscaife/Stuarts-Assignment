@@ -9,6 +9,24 @@ namespace Tournament
         string eventname;
         List<string> types = new List<string>();
         string type;
+        Dictionary<Team, int> placing = new Dictionary<Team, int>();
+
+        public void allocatePlace(Team t, int i)
+        {
+            placing.Add(t, i);
+        }
+
+        public int getPoints(Team t)
+        {
+            int postition = placing[t];
+            switch (position)
+            {
+                case 1:
+                    return 10;
+                    break;
+            }
+            return 0;
+        }
 
         public Event()
         {
@@ -35,6 +53,10 @@ namespace Tournament
         {
             Console.WriteLine("A" + type + "An event called " + eventname);
         }
-        
+
+        public string getName()
+        {
+            return eventname;
+        }
     }
 }
